@@ -29,3 +29,5 @@ sc079::Send,{sc029}
 ScrollLock::Send,{Media_Play_Pause}
 PrintScreen::Send,{Media_Prev}
 Pause::Send,{Media_Next}
+
+^SPACE::  Winset, Alwaysontop, , A
