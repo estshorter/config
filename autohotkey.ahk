@@ -30,4 +30,5 @@ ScrollLock::Send,{Media_Play_Pause}
 PrintScreen::Send,{Media_Prev}
 Pause::Send,{Media_Next}
 
-^SPACE::  Winset, Alwaysontop, , A
+;ctrl+space アクティブウインドウを常に最前面に表示
+^SPACE::Winset, Alwaysontop, Toggle, A
