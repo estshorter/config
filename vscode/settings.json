@@ -1,0 +1,37 @@
+{
+    "editor.fontFamily": "Cica, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 18,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "markdown.preview.fontSize": 18,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+    "terminal.integrated.fontSize": 18,
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "newUntitledFile",
+    // 言語毎の設定
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.flake8Args": [
+        "--max-line-length",
+        "120",
+        "--ignore=E203,E231,W503,W504"
+    ],
+    "python.formatting.provider": "black",
+    "python.languageServer": "Pylance",
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": true,
+    "go.useLanguageServer": true,
+    "[go]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true,
+        },
+        // Optional: Disable snippets, as they conflict with completion ranking.
+        "editor.snippetSuggestions": "none",
+    },
+}
