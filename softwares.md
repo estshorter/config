@@ -31,6 +31,7 @@
 - [PowerShell Core](https://github.com/PowerShell/PowerShell/releases)
 - [PowerToys](https://github.com/microsoft/PowerToys/releases/)
 - [Windows Terminal](https://www.microsoft.com/ja-jp/p/windows-terminal/9n0dx20hk701?rtc=1)
+- [OneCalendar](https://www.microsoft.com/ja-jp/p/one-calendar/9wzdncrdr0sf?cid=onecalweb&rtc=1&activetab=pivot:overviewtab)
 
 ## Multimedia
 
