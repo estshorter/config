@@ -8,7 +8,7 @@
 - [IrfanView](https://www.microsoft.com/ja-jp/p/irfanview64/9pjz3btl5pv6?ocid=AID2000142_aff_7804_1258413&tduid=(ir__bhs3a6ymvgkftlrpkk0sohzxz32xsxkaazicmcki00)(7804)(1258413)(zufrxFCTPNQ-auJl1i0YPwn_b1Xz5_RJAQ)()&ranMID=39726&ranEAID=zufrxFCTPNQ&ranSiteID=zufrxFCTPNQ-auJl1i0YPwn_b1Xz5_RJAQ&epi=zufrxFCTPNQ-auJl1i0YPwn_b1Xz5_RJAQ&irgwc=1&irclickid=_bhs3a6ymvgkftlrpkk0sohzxz32xsxkaazicmcki00&rtc=1)
 - [Mery](https://forest.watch.impress.co.jp/library/software/mery/)
 - [WinRAR](https://www.rarlab.com/)
-- [Ctrl2cap](https://docs.microsoft.com/en-us/sysinternals/downloads/ctrl2cap)
+- [Ctrl2Cap](https://docs.microsoft.com/en-us/sysinternals/downloads/ctrl2cap)
 
 ## Development
 
