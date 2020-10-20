@@ -3,21 +3,21 @@
     {
         "key": "ctrl+f9",
         "command": "workbench.action.tasks.build",
-        "when": "editorLangId != 'python'"
+        "when": "editorLangId != python"
+    },
+    {
+        "key": "ctrl+f9",
+        "command": "python.execInTerminal",
+        "when": "editorLangId == python"
+    },
+    {
+        "key": "ctrl+f10",
+        "command": "go.test.package",
+        "when": "editorLangId == go"
     },
     {
         "key": "ctrl+shift+b",
         "command": "-workbench.action.tasks.build"
-    },
-    {
-        "key": "ctrl+f9",
-        "command": "python.execInTerminal",
-        "when": "editorLangId == 'python'"
-    },
-    {
-        "key": "ctrl+f9",
-        "command": "python.execInTerminal",
-        "when": "editorLangId == 'python'"
     },
     {
         "key": "ctrl+;",
@@ -29,8 +29,4 @@
         "command": "workbench.action.focusFirstEditorGroup",
         "when": "terminalFocus"
     },
-    {
-        "key": "ctrl+f10",
-        "command": "go.test.package"
-    }
 ]
