@@ -35,7 +35,7 @@
 ## Multimedia
 
 - [MPC-BE](https://ja.osdn.net/projects/sfnet_mpcbe/)
-- [ZipPla](https://sites.google.com/site/riostoolbox/zippla): 設定は、exeと同じ場所にあるconfig.xml をコピペすれば設定移行可能
+- [ZipPla](https://sites.google.com/site/riostoolbox/zippla): exeと同じ場所にあるconfig.xml をコピペすれば設定移行可能
 ## Music
 
 - [Exact Audio Copy](http://www.exactaudiocopy.de/en/index.php/resources/download/)
