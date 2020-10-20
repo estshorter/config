@@ -2,7 +2,7 @@
 
 ## Mandatory
 
-- [Adobe Acrobat Reader](https://get2.adobe.com/jp/reader/)
+- [Adobe Acrobat Reader](https://get2.adobe.com/jp/reader/) (or [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html))
 - [Dropbox](https://www.dropbox.com/h)
 - [Google Chrome](https://www.google.com/intl/ja_jp/chrome/)
 - [IrfanView](https://www.microsoft.com/ja-jp/p/irfanview64/9pjz3btl5pv6?ocid=AID2000142_aff_7804_1258413&tduid=(ir__bhs3a6ymvgkftlrpkk0sohzxz32xsxkaazicmcki00)(7804)(1258413)(zufrxFCTPNQ-auJl1i0YPwn_b1Xz5_RJAQ)()&ranMID=39726&ranEAID=zufrxFCTPNQ&ranSiteID=zufrxFCTPNQ-auJl1i0YPwn_b1Xz5_RJAQ&epi=zufrxFCTPNQ-auJl1i0YPwn_b1Xz5_RJAQ&irgwc=1&irclickid=_bhs3a6ymvgkftlrpkk0sohzxz32xsxkaazicmcki00&rtc=1)
