@@ -16,10 +16,6 @@
         "when": "editorLangId == go"
     },
     {
-        "key": "ctrl+shift+b",
-        "command": "-workbench.action.tasks.build"
-    },
-    {
         "key": "ctrl+;",
         "command": "workbench.action.terminal.focus",
         "when": "editorTextFocus"
