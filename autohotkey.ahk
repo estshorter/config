@@ -33,7 +33,6 @@ Pause::Send,{Media_Next}
 ;ctrl+space アクティブウインドウを常に最前面に表示
 ^SPACE::Winset, Alwaysontop, Toggle, A
 
-
 ;無変換+tでタイムスタンプ挿入
 sc07B & t::
 FormatTime,TimeString,,yyMMdd
