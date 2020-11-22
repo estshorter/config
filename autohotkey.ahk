@@ -32,3 +32,15 @@ Pause::Send,{Media_Next}
 
 ;ctrl+space アクティブウインドウを常に最前面に表示
 ^SPACE::Winset, Alwaysontop, Toggle, A
+
+
+;無変換+tでタイムスタンプ挿入
+sc07B & t::
+FormatTime,TimeString,,yyMMdd
+Send,%TimeString%_
+Return
+
+;無変換+dでウインドウ消す
+sc07B & d::
+SendMessage, 0x112, 0xF170, 2,, Program Manager
+Return
