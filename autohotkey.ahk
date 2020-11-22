@@ -5,8 +5,8 @@ sc07B & k::Send,{Blind}{Up}
 sc07B & l::Send,{Blind}{Right}
 
 ;無変換 u, m : home, end
-sc07B & u::Send,{Blind}{Home}
-sc07B & m::Send,{Blind}{End}
+;sc07B & u::Send,{Blind}{Home}
+;sc07B & m::Send,{Blind}{End}
 
 ;無変換+r Alt F4 
 sc07B & r::Send,!{F4}
