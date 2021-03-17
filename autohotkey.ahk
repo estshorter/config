@@ -31,7 +31,9 @@ PrintScreen::Send,{Media_Prev}
 Pause::Send,{Media_Next}
 
 ;ctrl+space アクティブウインドウを常に最前面に表示
-^SPACE::Winset, Alwaysontop, Toggle, A
+sc07B & Space::WinSet, Alwaysontop, Toggle, A
+;ctrl+shift+alt+0アクティブウインドウを常に最前面に表示（マクロパッド）
+!+^0::WinSet, Alwaysontop, Toggle, A
 
 ;無変換+tでタイムスタンプ挿入
 sc07B & t::
@@ -39,7 +41,14 @@ FormatTime,TimeString,,yyMMdd
 Send,%TimeString%_
 Return
 
-;無変換+dでウインドウ消す
+;無変換+dでディスプレイ消灯
 sc07B & d::
 SendMessage, 0x112, 0xF170, 2,, Program Manager
 Return
+;ctrl+shift+alt+dでディスプレイ消灯（マクロパッド）
+!+^d::
+SendMessage, 0x112, 0xF170, 2,, Program Manager
+Return
+
+;無変換+f F11
+sc07B & f::Send,{F11}
