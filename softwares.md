@@ -31,8 +31,8 @@
 - [PowerShell Core](https://www.microsoft.com/ja-jp/p/powershell/9mz1snwt0n5d)
 - [PowerToys](https://github.com/microsoft/PowerToys/releases/)
 - [Windows Terminal](https://www.microsoft.com/ja-jp/p/windows-terminal/9n0dx20hk701?rtc=1)
-- [OneCalendar](https://www.microsoft.com/ja-jp/p/one-calendar/9wzdncrdr0sf?cid=onecalweb&rtc=1&activetab=pivot:overviewtab)
-
+- [OneCalendar](https://www.microsoft.com/ja-jp/p/one-calendar/9wzdncrdr0sf)
+- [Search Deflector](https://www.microsoft.com/ja-jp/p/search-deflector/9p8zjj80rz2k)
 ## Multimedia
 
 - [MPC-BE](https://ja.osdn.net/projects/sfnet_mpcbe/)
