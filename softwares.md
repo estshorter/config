@@ -50,6 +50,10 @@
 
 - [Nextgen Reader](https://www.microsoft.com/ja-jp/p/nextgen-reader/9wzdncrfj262)
 
+## Communication
+
+- [LINE](https://www.microsoft.com/ja-jp/p/line/9wzdncrfj2g6)
+
 ## Driver
 
 - [PMA-60](https://www.denon.jp/ja-jp/shop/amplifiers_ap/pma60_ap)
