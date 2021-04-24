@@ -4,3 +4,5 @@
 [user]
         name = estshorter
         email = 1430311+estshorter@users.noreply.github.com
+[pull]
+        rebase = false
