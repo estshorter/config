@@ -1,6 +1,8 @@
+# https://intellitect.com/enter-vsdevshell-powershell/
+# http://mklearning.blogspot.com/2019/12/developer-powershell-for-vs-2019x64.html
 function activate_msvc_impl {
-    Import-Module "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\Microsoft.VisualStudio.DevShell.dll"
-    Enter-VsDevShell 143c5d98 -DevCmdArguments -arch=x64
+    $installPath = &"C:\Program Files (x86)\Microsoft Visual Studio\Installer\vswhere.exe" -version 16.0 -property installationpath
+    Import-Module (Join-Path $installPath "Common7\Tools\Microsoft.VisualStudio.DevShell.dll") && Enter-VsDevShell -VsInstallPath $installPath -SkipAutomaticLocation -DevCmdArguments -arch=x64
 }
 
 Set-Alias activate_msvc activate_msvc_impl
