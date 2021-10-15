@@ -1,0 +1,17 @@
+[alias]
+    lg = log --graph --pretty=format:'%C(yellow)%h%Creset -%C(cyan)%d%Creset %s %Cgreen(%cr) %C(bold magenta)<%an>%Creset' --abbrev-commit
+    gr = log --graph --all --oneline --decorate
+[user]
+    name = estshorter
+    email = 1430311+estshorter@users.noreply.github.com
+[pull]
+    rebase = false
+[credential]
+    helper = store
+[pager]
+    diff = delta
+    log = delta
+    reflog = delta
+    show = delta
+[interactive]
+    diffFilter = delta --color-only --features=interactive
