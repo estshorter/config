@@ -17,7 +17,6 @@
 - [Node.js](https://nodejs.org/ja/)
 - [Miniconda](https://docs.conda.io/en/latest/miniconda.html) (Python)
 - [RLogin](https://kmiya-culti.github.io/RLogin/#INSTALL)
-- [SourceTree](https://www.sourcetreeapp.com/)
 - [Visual Studio](https://visualstudio.microsoft.com/ja/vs/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [WinMerge](https://winmergejp.bitbucket.io/)
