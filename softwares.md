@@ -16,7 +16,7 @@
 - [Git](https://gitforwindows.org/)
 - [Node.js](https://nodejs.org/ja/)
 - [Miniconda](https://docs.conda.io/en/latest/miniconda.html) (Python)
-- [RLogin](http://nanno.dip.jp/softlib/man/rlogin/#INSTALL)
+- [RLogin](https://kmiya-culti.github.io/RLogin/#INSTALL)
 - [SourceTree](https://www.sourcetreeapp.com/)
 - [Visual Studio](https://visualstudio.microsoft.com/ja/vs/)
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -44,7 +44,6 @@
 - [foobar2000](https://www.foobar2000.org/) ([link to store](https://www.microsoft.com/ja-jp/p/foobar2000/9pdj8x9spf2k?activetab=pivot:overviewtab))
 - [Mp3tag](https://www.microsoft.com/ja-jp/p/mp3tag/9nn77tcq1nc8)
 - [MusicBee](https://forest.watch.impress.co.jp/library/software/musicbee/): `%APPDATA%\MusicBee`が設定データ
-- [STEP_K](https://forest.watch.impress.co.jp/library/software/step_k/)
 
 ## RSS
 
