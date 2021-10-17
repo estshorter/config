@@ -15,7 +15,7 @@
     name = estshorter
     email = 1430311+estshorter@users.noreply.github.com
 [pull]
-    rebase = false
+    rebase = true
 [credential]
     helper = store
 [pager]
