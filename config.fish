@@ -8,7 +8,10 @@ if status is-interactive
         alias ll=el
         alias la=ea
     end
-    if functions | grep -q fisher && fisher list | grep -q PatrickF1/fzf.fish
+    if command -q fdfind && ! command -q fd
+        alias fd=fdfind
+    end
+    if fisher list | grep -q PatrickF1/fzf.fish
         fzf_configure_bindings --directory=\co --variable=\e\cv
     end
 end
