@@ -30,11 +30,6 @@ ScrollLock::Send,{Media_Play_Pause}
 PrintScreen::Send,{Media_Prev}
 Pause::Send,{Media_Next}
 
-;ctrl+space アクティブウインドウを常に最前面に表示
-sc07B & Space::WinSet, Alwaysontop, Toggle, A
-;ctrl+shift+alt+0アクティブウインドウを常に最前面に表示（マクロパッド）
-!+^0::WinSet, Alwaysontop, Toggle, A
-
 ;無変換+tでタイムスタンプ挿入
 sc07B & t::
 FormatTime,TimeString,,yyMMdd
