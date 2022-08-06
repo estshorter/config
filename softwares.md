@@ -54,6 +54,5 @@
 
 ## Driver
 
-- [PMA-60](https://www.denon.jp/ja-jp/shop/amplifiers_ap/pma60_ap)
 - Logicool Gaming Software
 - Logicool Setpoint
