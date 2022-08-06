@@ -36,6 +36,10 @@ FormatTime,TimeString,,yyMMdd
 Send,%TimeString%_
 Return
 
+;無変換+Spaceで power toys run
+sc07B & Space::Send,!{Space} 
+
+
 ;無変換+マウスホイール AltTab
 sc07B & WheelDown:: AltTab
 sc07B & WheelUp:: ShiftAltTab 
