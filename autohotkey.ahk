@@ -45,7 +45,7 @@ ScrollLock::Send,{Media_Play_Pause}
 ;PrintScreen::Send,{Media_Prev}
 ;Pause::Send,{Media_Next}
 
-;Printscreenでalways on top
+;Printscreenでalways on top (powertoys必須)
 PrintScreen::#^t
 
 ;Pauseでディスプレイ消灯
