@@ -32,13 +32,10 @@ sc079::Send "{sc029}"
 sc07B & f::Send "{F11}"
 
 ;無変換+tでタイムスタンプ挿入
-sc07B & t::
-{
-    Send FormatTime(,"yyMMdd_")
-}
+sc07B & t::Send FormatTime(,"yyMMdd_")
 
 ;無変換+Spaceで power toys run
-sc07B & Space::Send "!{Space} "
+sc07B & Space::Send "!{Space}"
 
 ;無変換+マウスホイール AltTab
 sc07B & WheelDown:: AltTab
